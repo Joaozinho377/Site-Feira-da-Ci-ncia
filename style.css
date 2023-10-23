@@ -86,7 +86,7 @@ a {
 .principal {
     height: calc(100vh - 10vh);
     width: 100%;
-    background: url("./img/logo.jfif") center center/cover;
+    background: url("./img/holograma.jfif") center center/cover;
     top: 0;
     left: 0;
     z-index: -1;
@@ -95,7 +95,7 @@ a {
 .principal1 {
     height: calc(100vh - 10vh);
     width: 100%;
-    background: url("./img/nature.jpg") center center/cover;
+    background: url("./img/logo.jfif") center center/cover;
     top: 0;
     left: 0;
     z-index: -1;
